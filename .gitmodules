@@ -1,0 +1,6 @@
+[submodule "unstray-config-server"]
+	branch = main
+[submodule "unstray-eureka-server"]
+	branch = main
+[submodule "unstray-api-gateway"]
+	branch = main
