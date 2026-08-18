@@ -1,6 +1,14 @@
 [submodule "unstray-config-server"]
+	path = unstray-config-server
+	url = https://github.com/kameshNethsara/unstray-config-server.git
 	branch = main
+
 [submodule "unstray-eureka-server"]
+	path = unstray-eureka-server
+	url = https://github.com/kameshNethsara/unstray-eureka-server.git
 	branch = main
+
 [submodule "unstray-api-gateway"]
+	path = unstray-api-gateway
+	url = https://github.com/kameshNethsara/unstray-api-gateway.git
 	branch = main
