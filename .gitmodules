@@ -12,3 +12,8 @@
 	path = unstray-api-gateway
 	url = https://github.com/kameshNethsara/unstray-api-gateway.git
 	branch = main
+
+[submodule "unstray-config-repo"]
+	path = unstray-config-repo
+	url = https://github.com/kameshNethsara/unstray-config-repo.git
+	branch = main
