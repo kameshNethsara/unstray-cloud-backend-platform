@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/unstray-api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unstray-config-repo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/unstray-config-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/unstray-eureka-server" vcs="Git" />
   </component>

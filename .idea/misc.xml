@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/unstray-api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/unstray-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/unstray-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
